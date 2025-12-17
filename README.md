@@ -1,7 +1,7 @@
 Sistema de juego de adivinar el numero 
 
 ### Descripción
-Aplicación de escritorio desarrollada en C# para jugar un juego de adivina el numero, el cual  piensa la computadora, tienen 7 vidas si
+Aplicación en windows form desarrollada en C# para jugar un juego de adivina el numero, el cual  piensa la computadora, tienen 7 vidas si
 no adivinan en las 7 vidas el juego se acaba, si adivinan el numero pensado ganan.
 
 ### 🚀 Funcionalidades
